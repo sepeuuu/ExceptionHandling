@@ -117,8 +117,6 @@ namespace ExceptionHandling
             {
                 Console.WriteLine("The adding product operation has completed");
             }
-
-
         }
     }
 }
